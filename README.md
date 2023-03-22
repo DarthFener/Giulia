@@ -1,7 +1,7 @@
 
 # Giulia
 
-Semplicicssimo eseguibile in c che, dato un file o una stringa sostituisce il termine Giulia con Gigliola.
+Semplicissimo eseguibile in c che, dato un file o una stringa sostituisce il termine Giulia con Gigliola.
 
 
 ## Autore
