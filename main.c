@@ -3,9 +3,9 @@
  *        FILE main.c
  *        Com. Francesco Cesare Giorgio Teseo Bosatra
  *        
- *        Issue:
- *        README:
- *        Licence:
+ *        Issue:    https://github.com/DarthFener/Giulia/issues
+ *        README:   https://github.com/DarthFener/Giulia/blob/master/README.md
+ *        Licence:  https://choosealicense.com/licenses/mit/
  * 
  * 
  * *******************************************************************************************************************************/
